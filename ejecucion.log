@@ -1,0 +1,65 @@
+Burbuja            n= 10000 Aleatorio CPU= 3999.661 ms REAL= 4000.056 ms
+Quicksort          n= 10000 Aleatorio CPU=   20.842 ms REAL=   20.848 ms
+ShellSort          n= 10000 Aleatorio CPU=   20.331 ms REAL=   20.334 ms
+Radix              n= 10000 Aleatorio CPU=    7.488 ms REAL=    7.491 ms
+Intercalacion      n= 10000 Aleatorio CPU=    6.317 ms REAL=    6.320 ms
+Mezcla_Directa     n= 10000 Aleatorio CPU=   38.941 ms REAL=   39.189 ms
+Mezcla_Natural     n= 10000 Aleatorio CPU=   34.618 ms REAL=   34.867 ms
+Burbuja            n= 10000 Ordenado  CPU=    0.433 ms REAL=    0.434 ms
+Quicksort          n= 10000 Ordenado  CPU=   20.260 ms REAL=   20.265 ms
+ShellSort          n= 10000 Ordenado  CPU=    5.534 ms REAL=    5.536 ms
+Radix              n= 10000 Ordenado  CPU=    7.019 ms REAL=    7.022 ms
+Intercalacion      n= 10000 Ordenado  CPU=    4.980 ms REAL=    4.985 ms
+Mezcla_Directa     n= 10000 Ordenado  CPU=   37.739 ms REAL=   37.875 ms
+Mezcla_Natural     n= 10000 Ordenado  CPU=    1.690 ms REAL=    1.693 ms
+Burbuja            n= 10000 Inverso   CPU= 5550.879 ms REAL= 5551.250 ms
+Quicksort          n= 10000 Inverso   CPU=   20.193 ms REAL=   20.196 ms
+ShellSort          n= 10000 Inverso   CPU=    9.963 ms REAL=    9.964 ms
+Radix              n= 10000 Inverso   CPU=    6.908 ms REAL=    6.910 ms
+Intercalacion      n= 10000 Inverso   CPU=    4.186 ms REAL=    4.188 ms
+Mezcla_Directa     n= 10000 Inverso   CPU=   35.704 ms REAL=   35.804 ms
+Mezcla_Natural     n= 10000 Inverso   CPU=   35.658 ms REAL=   35.762 ms
+OMITIDO Burbuja            n= 50000 Aleatorio
+Quicksort          n= 50000 Aleatorio CPU=  116.992 ms REAL=  117.002 ms
+ShellSort          n= 50000 Aleatorio CPU=  146.575 ms REAL=  146.586 ms
+Radix              n= 50000 Aleatorio CPU=   40.683 ms REAL=   40.690 ms
+Intercalacion      n= 50000 Aleatorio CPU=   32.812 ms REAL=   32.819 ms
+Mezcla_Directa     n= 50000 Aleatorio CPU=  208.947 ms REAL=  209.223 ms
+Mezcla_Natural     n= 50000 Aleatorio CPU=  206.185 ms REAL=  206.434 ms
+Burbuja            n= 50000 Ordenado  CPU=    2.700 ms REAL=    2.702 ms
+Quicksort          n= 50000 Ordenado  CPU=  132.395 ms REAL=  132.409 ms
+ShellSort          n= 50000 Ordenado  CPU=   35.701 ms REAL=   35.706 ms
+Radix              n= 50000 Ordenado  CPU=   35.606 ms REAL=   35.612 ms
+Intercalacion      n= 50000 Ordenado  CPU=   25.368 ms REAL=   25.374 ms
+Mezcla_Directa     n= 50000 Ordenado  CPU=  193.460 ms REAL=  193.640 ms
+Mezcla_Natural     n= 50000 Ordenado  CPU=    6.389 ms REAL=    6.392 ms
+OMITIDO Burbuja            n= 50000 Inverso
+Quicksort          n= 50000 Inverso   CPU=  119.569 ms REAL=  119.583 ms
+ShellSort          n= 50000 Inverso   CPU=   58.676 ms REAL=   58.681 ms
+Radix              n= 50000 Inverso   CPU=   35.779 ms REAL=   35.785 ms
+Intercalacion      n= 50000 Inverso   CPU=   23.395 ms REAL=   23.400 ms
+Mezcla_Directa     n= 50000 Inverso   CPU=  191.153 ms REAL=  191.329 ms
+Mezcla_Natural     n= 50000 Inverso   CPU=  210.975 ms REAL=  211.262 ms
+OMITIDO Burbuja            n=100000 Aleatorio
+Quicksort          n=100000 Aleatorio CPU=  267.825 ms REAL=  267.854 ms
+ShellSort          n=100000 Aleatorio CPU=  375.957 ms REAL=  375.984 ms
+Radix              n=100000 Aleatorio CPU=   85.193 ms REAL=   85.204 ms
+Intercalacion      n=100000 Aleatorio CPU=   64.259 ms REAL=   64.268 ms
+Mezcla_Directa     n=100000 Aleatorio CPU=  445.614 ms REAL=  445.954 ms
+Mezcla_Natural     n=100000 Aleatorio CPU=  412.204 ms REAL=  412.520 ms
+Burbuja            n=100000 Ordenado  CPU=    5.758 ms REAL=    5.761 ms
+Quicksort          n=100000 Ordenado  CPU=  279.945 ms REAL=  279.964 ms
+ShellSort          n=100000 Ordenado  CPU=   91.590 ms REAL=   91.599 ms
+Radix              n=100000 Ordenado  CPU=   81.099 ms REAL=   81.120 ms
+Intercalacion      n=100000 Ordenado  CPU=   52.934 ms REAL=   52.943 ms
+Mezcla_Directa     n=100000 Ordenado  CPU=  440.274 ms REAL=  440.874 ms
+Mezcla_Natural     n=100000 Ordenado  CPU=   13.583 ms REAL=   13.688 ms
+OMITIDO Burbuja            n=100000 Inverso
+Quicksort          n=100000 Inverso   CPU=  291.147 ms REAL=  292.540 ms
+ShellSort          n=100000 Inverso   CPU=  138.210 ms REAL=  138.219 ms
+Radix              n=100000 Inverso   CPU=   76.909 ms REAL=   76.919 ms
+Intercalacion      n=100000 Inverso   CPU=   53.380 ms REAL=   53.388 ms
+Mezcla_Directa     n=100000 Inverso   CPU=  411.815 ms REAL=  412.120 ms
+Mezcla_Natural     n=100000 Inverso   CPU=  418.063 ms REAL=  418.520 ms
+
+Resultados: /mnt/data/Unidad_5_Ordenamiento/resultados_actualizados/resultados_benchmark.csv

@@ -1,0 +1,17 @@
+{
+  "fecha_utc": "2026-11-07T04:26:32.457129+00:00",
+  "sistema": "Linux-6.18.57-x86_64-with-glibc2.41",
+  "python": "3.13.5",
+  "procesador_reportado": "No reportado",
+  "nucleos_logicos_reportados": 5,
+  "semilla": 20261106,
+  "tamanos": [
+    10000,
+    50000,
+    100000
+  ],
+  "repeticiones_por_escenario": 3,
+  "nota": "CPU=process_time_ns; REAL=perf_counter_ns; mediana de repeticiones",
+  "formato_archivo": "Enteros int32 little-endian, 4 bytes por registro",
+  "politica_burbuja": "Hasta 10000 para aleatorio/inverso; otros casos opcionales"
+}
